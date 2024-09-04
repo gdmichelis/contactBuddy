@@ -1,0 +1,15 @@
+.error__container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.error__container h1 {
+  color: #333;
+}
+
+.error__container p:last-child {
+  color: #888;
+}

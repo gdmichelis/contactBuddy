@@ -1,0 +1,115 @@
+.contact-form-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.contact-form-container h2 {
+  color: rgb(79, 166, 243);
+  padding: 20px;
+}
+
+.contact-form-form-outer {
+  border: 2px solid #eee;
+  width: 300px;
+  height: 280px;
+  padding: 20px;
+  border-radius: 7px;
+  position: relative;
+}
+
+.contact-form-input-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  row-gap: 12px;
+}
+
+.contact-form-input-container div {
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+label {
+  color: #333;
+  font-size: 0.9rem;
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+.contact-form-input {
+  appearance: none;
+  color: #333;
+  border: 2px solid #eee;
+  height: 30px;
+  width: auto;
+  border-radius: 5px;
+}
+
+.contact-form-input:focus {
+  appearance: none;
+  outline: none;
+  border-color: #5a4af4;
+}
+
+.contact-form-input-container .contact-form-input {
+  width: 51%;
+}
+
+.hidden {
+  display: none;
+}
+
+.contact-form-form-footer {
+  border-top: 1px solid #eee;
+  padding: 20px 0 20px 0;
+  display: flex;
+  flex-wrap: no-wrap;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+}
+
+.contact-form-form-footer button[type="submit"] {
+  background-color: #5a4af4;
+  color: #fff;
+  padding: 7px 12px;
+}
+
+.contact-form-form-footer button[type="button"] {
+  background-color: #fff;
+  color: #5a4af4;
+  border: 1px solid #5a4af4;
+}
+
+.form-body {
+  padding: 30px 20px 0 20px;
+}
+
+@media screen and (max-width: 420px) {
+  .contact-form-form-outer {
+    width: max-content;
+  }
+
+  .contact-form-container {
+    margin-bottom: 80px;
+  }
+}
+
+@media screen and (min-width: 421px) and (max-width: 650px) {
+  .contact-form-container {
+    margin-bottom: 100px;
+  }
+}
+
+@media screen and (min-width: 651px) and (max-width: 1281px) {
+  .contact-form-container {
+    margin-bottom: 100px;
+  }
+}

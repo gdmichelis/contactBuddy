@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "first_name": "George",
+      "last_name": "Barron",
+      "avatar": "https://robohash.org/you.png?set=set5&size=150x150",
+      "createdAt": "2024-08-23",
+      "notes": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "favorite": "false"
+    },
+    {
+      "id": 2,
+      "first_name": "John",
+      "last_name": "Stokes",
+      "avatar": "https://robohash.org/you.png?set=set5&size=150x150",
+      "createdAt": "2024-08-21",
+      "notes": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "favorite": "true"
+    },
+    {
+      "id": 3,
+      "first_name": "Vicky",
+      "last_name": "Anderson",
+      "avatar": "https://robohash.org/3.png?set=set5&size=150x150",
+      "createdAt": "2024-08-04",
+      "notes": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "favorite": "true"
+    },
+    {
+      "id": 4,
+      "first_name": "Mary",
+      "last_name": "Layles",
+      "avatar": "https://robohash.org/4.png?set=set5&size=150x150",
+      "createdAt": "2024-08-03",
+      "notes": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "favorite": "false"
+    },
+    {
+      "id": 5,
+      "first_name": "Bill",
+      "last_name": "Rozov",
+      "avatar": "https://robohash.org/5.png?set=set5&size=150x150",
+      "createdAt": "2024-08-01",
+      "notes": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "favorite": "true"
+    },
+    {
+      "first_name": "Jim",
+      "last_name": "Davis",
+      "createdAt": "2024-08-26",
+      "avatar": "https://robohash.org/you.png?set=set5&size=150x150",
+      "favorite": "true",
+      "notes": "Test",
+      "id": 6
+    }
+  ]
+}
