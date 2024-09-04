@@ -1,6 +1,6 @@
 # A React App for creating and managing your contacts
 
-![ContactBuddy Logo] (https://github.com/gdmichelis/contactBuddy/blob/main/src/assets/ContactsBuddy%20Logo.png)
+![ContactBuddy Logo] (./src/assets/ContactsBuddy Logo.png)
 
 ### DEMO
 
